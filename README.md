@@ -11,3 +11,4 @@ Titel
 9. Commando om te veranderen naar branch 'feature-branch':
 10. Je zit in de feature-branch. Met welke commando kan je alle wijzigingen toevoegen aan de master branch?:
 11. Je zit op branch feature-branch. Na het branchen is er op de master een nieuwe file aangemaakt nieuwefile.txt. Met welke commando kan je je branch updaten met de laatste nieuwe file?:
+
